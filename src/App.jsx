@@ -3,7 +3,9 @@ import './App.css';
 
 const Profile = () => {
   return (
-    <h2>Это страница с профилем</h2>
+    <div className="row">
+      <h2>Это страница с профилем</h2>
+    </div>
   );
 }
 const Messages = () => {
